@@ -1,0 +1,71 @@
+race,comments_SZ
+African Anferican,keep
+Afriean American,remove
+Afriean American / Black,remove
+Asian__,keep
+CiAsian,remove
+ClAsian,remove
+JAmerican Indian,remove
+LJAsian,remove
+LWhite or Caucasian,remove
+L_JAmerican Indian,remove
+Mcaucasian,remove
+Native Hawaiian/Other Pacific,keep
+Native Hawallan or other pacific islander,keep
+OAsian,remove
+Pacific Islander / Mawaiian Nalive,keep
+Pacificlslander,keep
+Patrica American,remove
+SWhite,remove
+Wiftite or Caucasiai,remove
+Xcaucasian,remove
+_Afnican - American / Black,remove
+_Asian,keep
+___Alaska Native,keep
+___Native American,keep
+african american,keep
+african american / black,keep
+african american/black,keep
+african-american,keep
+alaskan native,keep
+american indian,keep
+american indian / alaska native,keep
+american indian / alaskan native,keep
+american indian or alaska native,duplicate
+american indian or alaskan native,keep
+american/black,keep
+asian,keep
+aucasian,remove
+black,keep
+black or african american,keep
+black-african american,keep
+black/african,keep
+black/african american,keep
+caucasian,keep
+caucasian/white,keep
+eZucasian,remove
+fAcaucasian,remove
+frican American,remove
+imerican Indian,remove
+kCaucasian,remove
+native american,duplicate
+native hawaiian / pacific islander,keep
+native hawaiian or other pacific islander,keep
+native hawaiian or pacific islander,keep
+other pacific islander,keep
+pacific islander,keep
+pacific islander / hawaiian native,keep
+white,keep
+white / caucasian,keep
+white or caucasian,keep
+white/caucasian,keep
+east asian,keep
+south asian,keep
+southeast asian,keep
+native american,keep
+aboriginal australians,keep
+unknown,keep
+multiracial,keep
+American Indian or Alaska Native,keep
+Race unknown or uncoded,keep
+Patient declined to respond,add
