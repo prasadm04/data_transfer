@@ -1,0 +1,16 @@
+Patient Name: John Doe  
+Medical Record Number: 123456789  
+Date of Birth: 01/01/1970 
+Type of Staging: Clinical Staging (cTNM)  
+
+Patient Demographics and Clinical Background:
+Mr. John Doe is a 54-year-old male with a history of hypertension and hyperlipidemia who presented to the clinic with complaints of persistent cough and right-sided chest pain. Imaging studies, including contrast-enhanced chest CT, revealed a suspicious right upper lobe pulmonary lesion measuring approximately 4.2 cm in greatest dimension. PET/CT demonstrated increased uptake in ipsilateral hilar lymph nodes, consistent with nodal involvement, but no evidence of distant metastatic disease. Bronchoscopy with biopsy confirmed moderately differentiated adenocarcinoma.
+
+TNM Staging (AJCC 8th Edition): 
+T2a N1 M0  
+ 
+Based on the TNM classification, Mr. Doe’s disease is categorized as Stage IIB. His primary tumor (T2a) measures between 3 cm and 5 cm in greatest dimension, without invasion into adjacent structures. The presence of metastasis to ipsilateral hilar lymph nodes (N1) elevates the nodal staging, while the absence of distant metastatic disease (M0) excludes higher stages. Collectively, this places the patient in Stage IIB, reflective of localized disease with limited nodal involvement.
+  
+The staging is determined by the 4.2 cm size of the primary tumor, which meets criteria for T2a classification, indicating a tumor larger than 3 cm but less than 5 cm. Pathologic evidence of metastasis to ipsilateral hilar lymph nodes supports an N1 designation, reflecting regional nodal spread. Importantly, no evidence of distant metastatic disease was identified on imaging or PET/CT, supporting an M0 classification. These findings align with criteria for Stage IIB disease according to the AJCC 8th edition guidelines, which are used to stratify the patient’s prognosis and guide treatment planning.  
+
+This staging reflects clinical findings (cTNM) based on imaging and biopsy results. Further pathologic staging (pTNM) may be performed following surgical evaluation of the tumor and lymph nodes.

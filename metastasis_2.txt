@@ -1,0 +1,62 @@
+Patient Name: John Doe
+Date of Birth: 01/01/1970
+MRN: 123456789
+Date of Visit: 03/01/2024
+Provider: Dr. Jane Smith, MD
+
+Chief Complaint:
+The patient presents today for a follow-up regarding lower back pain and recent imaging findings.
+
+History of Present Illness:
+John Doe, a 54-year-old male with a history of non-small cell lung cancer (NSCLC) treated with chemotherapy, radiation therapy, and right lower lobectomy, returns for a follow-up visit. The patient had presented with new-onset lower back pain and progressive fatigue. An MRI of the lumbar spine was ordered to evaluate the etiology of his back pain.
+
+Past Medical History:
+1. Non-small cell lung cancer (NSCLC) - diagnosed 25 months ago, treated with chemotherapy, radiation therapy, and right lower lobectomy.
+2. Hypertension - diagnosed seven years ago, well-controlled on medication.
+3. Type 2 diabetes mellitus - diagnosed five years ago, managed through diet and medication.
+
+Medications:
+1. Lisinopril 10mg daily (hypertension)
+2. Metformin 1000mg twice daily (type 2 diabetes)
+3. Naproxen 500mg twice daily as needed (lower back pain)
+4. Multivitamin daily
+
+Allergies:
+No known drug allergies.
+
+Family History:
+No family history of lung cancer. Father had colon cancer, and mother had breast cancer.
+
+Social History:
+The patient is a former smoker with a 20-pack-year history, quit 14 years ago. He denies alcohol or illicit drug use. He is married and lives with his wife and two children.
+
+Review of Systems:
+Constitutional: Fatigue, no fever or chills, no weight loss.
+Musculoskeletal: Persistent lower back pain, no joint pain or swelling.
+Other systems reviewed and are negative.
+
+Physical Examination:
+Vital Signs: BP 132/86, HR 80, RR 18, Temp 98.4°F, SpO2 97% on room air.
+General Appearance: Alert, oriented, and cooperative. Appears fatigued.
+HEENT: PERRLA, EOMI, no oral lesions or lymphadenopathy.
+Chest: Clear to auscultation bilaterally, no wheezes or crackles.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Abdomen: Soft, non-tender, non-distended, bowel sounds present.
+Extremities: No edema or clubbing.
+Skin: No rashes or lesions.
+Neurological: AAOx3, CN II-XII grossly intact, motor and sensory exam normal.
+Musculoskeletal: Tenderness to palpation over the lower lumbar spine, no deformity, full range of motion.
+
+Laboratory and Imaging:
+MRI of the lumbar spine revealed a metastatic lesion at the L3 vertebral body. Tumor markers showed an increase compared to the previous assessment. No other significant laboratory abnormalities were noted.
+
+Assessment and Plan:
+1. Metastatic non-small cell lung cancer: MRI confirmed metastasis to the L3 vertebral body. The patient will be referred to a spine surgeon for evaluation and surgical planning. The patient will also be referred back to the radiation oncologist to discuss potential palliative radiation therapy for pain management and local tumor control.
+2. Surgical plan: The spine surgeon will evaluate the patient for potential surgical interventions, such as vertebroplasty, kyphoplasty, or spinal stabilization, depending on the extent of the metastasis and the patient's clinical condition.
+3. Lower back pain: Continue NSAIDs for pain management. The patient will be prescribed a short course of oral corticosteroids to help alleviate pain associated with spinal metastasis. Pain management will be reassessed after surgical and radiation therapy consultations.
+4. Fatigue: The patient will be encouraged to maintain a balanced diet, regular exercise, and adequate sleep. The patient's fatigue will continue to be monitored, and further evaluation may be required based on the response to treatment.
+
+The patient was educated on the findings of the MRI and the next steps in his treatment plan. The patient verbalized understanding and agreed to follow up as recommended.
+
+Dr. Jane Smith, MD
+Oncology

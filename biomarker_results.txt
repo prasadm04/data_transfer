@@ -1,0 +1,53 @@
+Name: John Doe  
+Date of Birth: 01/01/1970
+Gender: Male  
+MRN: 123456789  
+Diagnosis: Adenocarcinoma of the lung, Stage IV  
+Clinical History: The patient presented with progressive dyspnea and cough. Imaging revealed a 4.2 cm right upper lobe pulmonary mass with mediastinal lymphadenopathy and multiple liver metastases. Histopathological diagnosis confirmed non-small cell lung cancer (NSCLC), adenocarcinoma subtype. The patient is undergoing evaluation for targeted and immunotherapy options.  
+
+Biomarker Results and Interpretations
+
+1. EGFR Mutation Analysis:
+   Result: No detectable mutations. (Wild-type EGFR)  
+   Interpretation: The absence of EGFR mutations (e.g., exon 19 deletions or exon 21 L858R substitutions) suggests that the patient is not a candidate for EGFR-targeted tyrosine kinase inhibitors (TKIs) such as osimertinib or erlotinib.
+
+2. ALK Rearrangement: 
+   Result: Negative for ALK rearrangement.  
+   Interpretation: ALK rearrangements were not identified, ruling out eligibility for ALK-targeted therapies such as alectinib, brigatinib, or lorlatinib.
+
+3. ROS1 Rearrangement: 
+   Result: Negative for ROS1 rearrangement.  
+   Interpretation: ROS1 gene fusion was not detected, indicating the patient is not a candidate for ROS1-directed therapies like crizotinib or entrectinib.
+
+4. KRAS Mutation Analysis:  
+   Result: Positive for KRAS G12C mutation.  
+   Interpretation: The identified KRAS G12C mutation indicates eligibility for KRAS-targeted therapy, such as sotorasib or adagrasib.
+
+5. BRAF Mutation Analysis:  
+   Result: Negative for BRAF mutations.  
+   Interpretation: No actionable BRAF mutations (e.g., V600E) were detected, ruling out BRAF-targeted therapies like dabrafenib and trametinib.
+
+6. MET Exon 14 Skipping Mutation: 
+   Result: Negative for MET exon 14 skipping mutation.  
+   Interpretation: MET exon 14 skipping mutation was not detected, ruling out MET-directed therapies such as capmatinib or tepotinib.
+
+7. PD-L1 Expression (Tumor Proportion Score - TPS): 
+   Result: PD-L1 TPS = 70%  
+   Interpretation: High PD-L1 expression (≥50%) suggests potential benefit from immune checkpoint inhibitors targeting the PD-1/PD-L1 axis, such as pembrolizumab or atezolizumab, as monotherapy.
+
+8. Tumor Mutational Burden (TMB):  
+   Result: TMB = 6 mutations/megabase (Low TMB)  
+   Interpretation: A low TMB reduces likelihood of enhanced response to immune checkpoint inhibitors in combination settings. However, PD-L1 status remains the primary driver for immunotherapy selection.
+
+9. Microsatellite Instability (MSI):
+   Result: Microsatellite stable (MSS).  
+   Interpretation: The tumor is microsatellite stable, indicating reduced likelihood of benefit from immunotherapy targeting high MSI tumors, such as pembrolizumab in MSI-high cancers.
+
+
+Summary and Implications for Treatment Decisions
+
+The molecular analysis reveals a KRAS G12C mutation, which provides an opportunity for KRAS-targeted therapy. Additionally, the high PD-L1 expression (TPS 70%) supports consideration of first-line monotherapy with a PD-1/PD-L1 immune checkpoint inhibitor. The absence of actionable alterations in EGFR, ALK, ROS1, BRAF, MET exon 14, and MSI precludes the use of therapies targeting these pathways. The low tumor mutational burden further suggests limited benefit from combination immunotherapy strategies.
+
+Dr. Emily Carter, MD, PhD  
+Molecular Pathologist  
+Pathology and Molecular Diagnostics Department

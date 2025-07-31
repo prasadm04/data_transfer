@@ -1,0 +1,34 @@
+Patient Name: John Doe
+Date of Birth: 01/01/1970
+MRN: 123456789
+Date of Initial Consultation: 09/18/2022
+Radiation Oncologist: Dr. Emily Brown, MD
+
+Diagnosis: Non-small cell lung cancer (NSCLC)
+
+Clinical History:
+John Doe, a 52-year-old male with a history of non-small cell lung cancer, has completed four cycles of chemotherapy with a partial response. The patient was referred for radiation therapy evaluation to address the residual tumor in the right lower lobe of the lung.
+
+Treatment Plan:
+The patient underwent CT-based simulation for radiation therapy planning. A custom immobilization device was created to ensure accurate and reproducible positioning. Target volumes and organs at risk (OARs) were contoured using the simulation CT images in conjunction with the patient's diagnostic imaging studies.
+
+Prescribed Treatment:
+1. Radiation therapy to the residual tumor in the right lower lobe using intensity-modulated radiation therapy (IMRT) with daily image guidance.
+2. Total dose: 60 Gy delivered in 30 fractions over six weeks (2 Gy per fraction, five days per week).
+
+Organs at Risk (OARs) Dose Constraints:
+1. Spinal cord: Maximum dose < 45 Gy
+2. Contralateral lung: V20 < 30%
+3. Heart: Mean dose < 26 Gy
+4. Esophagus: Maximum dose < 60 Gy
+
+Treatment Course:
+The patient tolerated the radiation therapy course well, with mild acute side effects, including fatigue and mild skin erythema in the treatment area. The patient was provided with a topical steroid cream for the skin reaction and counseled on fatigue management strategies. The patient completed the prescribed 30 fractions of radiation therapy without any treatment breaks or significant complications.
+
+Post-Treatment Follow-Up:
+1. The patient will be scheduled for a follow-up appointment with the radiation oncologist in four weeks to assess the response to radiation therapy and monitor for any late side effects.
+2. The patient will continue to follow up with the medical oncologist and surgeon, as appropriate, for ongoing care and monitoring.
+3. A repeat CT scan will be obtained at the three-month follow-up visit to evaluate the tumor's response to radiation therapy and assess for any changes in tumor size or appearance.
+
+Dr. Emily Brown, MD
+Radiation Oncology

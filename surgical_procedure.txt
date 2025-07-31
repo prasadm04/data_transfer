@@ -1,0 +1,45 @@
+Patient Name: John Doe
+Date of Birth: 01/01/1970
+MRN: 123456789
+Date of Surgery: 07/10/2023
+Surgeon: Dr. Sarah Johnson, MD
+
+Preoperative Diagnosis: Non-small cell lung cancer (NSCLC) with partial response to chemotherapy and radiation therapy
+Postoperative Diagnosis: Non-small cell lung cancer (NSCLC)
+
+Procedure: Video-Assisted Thoracoscopic Surgery (VATS) with right lower lobectomy
+
+Anesthesia: General anesthesia with endotracheal intubation and one-lung ventilation
+
+Indications:
+John Doe, a 53-year-old male with a history of non-small cell lung cancer, has completed four cycles of chemotherapy and a course of radiation therapy. The patient's recent CT scan revealed a stable residual tumor in the right lower lobe. Due to the limited response to treatment, the decision was made to proceed with surgical resection of the tumor via right lower lobectomy using video-assisted thoracoscopic surgery (VATS).
+
+Procedure Details:
+The patient was brought to the operating room and placed in the left lateral decubitus position. General anesthesia was administered, and one-lung ventilation was established. The patient was prepped and draped in a sterile fashion.
+
+Three thoracoscopic ports were placed in the right hemithorax. The thoracoscopic camera was introduced, and the pleural cavity was inspected. There was no evidence of pleural metastasis or adhesions. The lung was deflated, and the right lower lobe was visualized. The lung parenchyma appeared normal, and the tumor was localized to the right lower lobe.
+
+The fissure between the right lower and middle lobes was dissected using a combination of electrocautery and an endoscopic stapler. The right lower lobe pulmonary artery and vein branches were identified, dissected, and divided using an endoscopic vascular stapler. The bronchus to the right lower lobe was identified, dissected, and divided using an endoscopic stapler.
+
+The right lower lobectomy was completed without complications. The resected lobe containing the tumor was placed in a retrieval bag and removed through one of the port sites. Hemostasis was confirmed, and a chest tube was placed in the pleural cavity.
+
+The thoracoscopic ports were removed, and the incisions were closed using absorbable sutures. The patient was extubated and transferred to the post-anesthesia care unit (PACU) in stable condition.
+
+Specimen: Right lower lobe containing the tumor
+
+Estimated Blood Loss: Minimal
+
+Complications: None
+
+Disposition: The patient was transferred to the post-anesthesia care unit (PACU) and subsequently to the surgical recovery ward for postoperative monitoring.
+
+Plan:
+1. Monitor the patient in the surgical recovery ward.
+2. Chest x-ray in the first 24 hours postoperatively to confirm lung re-expansion and chest tube position.
+3. Maintain chest tube and monitor for air leak and drainage.
+4. Pain management with appropriate analgesics.
+5. Encourage early ambulation and incentive spirometry.
+6. Follow up with the patient in the surgical clinic in two weeks for a postoperative evaluation and suture removal.
+
+Dr. Sarah Johnson, MD
+Thoracic Surgery

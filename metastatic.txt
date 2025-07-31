@@ -1,0 +1,61 @@
+Patient Name: John Doe
+Date of Birth: 01/01/1970
+MRN: 123456789
+Date of Visit: 02/15/2024
+Provider: Dr. Jane Smith, MD
+
+Chief Complaint:
+The patient presents today with new-onset lower back pain and worsening fatigue.
+
+History of Present Illness:
+John Doe, a 54-year-old male with a history of non-small cell lung cancer (NSCLC) treated with chemotherapy, radiation therapy, and right lower lobectomy, presents for a follow-up visit. The patient reports new-onset lower back pain that started three weeks ago and progressive fatigue. The back pain is described as constant, dull, and non-radiating, with a severity of 5/10. The pain is not relieved by over-the-counter medication. He denies any recent trauma, fever, or weight loss.
+
+Past Medical History:
+1. Non-small cell lung cancer (NSCLC) - diagnosed 24 months ago, treated with chemotherapy, radiation therapy, and right lower lobectomy.
+2. Hypertension - diagnosed seven years ago, well-controlled on medication.
+3. Type 2 diabetes mellitus - diagnosed five years ago, managed through diet and medication.
+
+Medications:
+1. Lisinopril 10mg daily (hypertension)
+2. Metformin 1000mg twice daily (type 2 diabetes)
+3. Multivitamin daily
+
+Allergies:
+No known drug allergies.
+
+Family History:
+No family history of lung cancer. Father had colon cancer, and mother had breast cancer.
+
+Social History:
+The patient is a former smoker with a 20-pack-year history, quit 14 years ago. He denies alcohol or illicit drug use. He is married and lives with his wife and two children.
+
+Review of Systems:
+Constitutional: Fatigue, no fever or chills, no weight loss.
+Musculoskeletal: Lower back pain, no joint pain or swelling.
+Other systems reviewed and are negative.
+
+Physical Examination:
+Vital Signs: BP 130/85, HR 82, RR 18, Temp 98.2°F, SpO2 97% on room air.
+General Appearance: Alert, oriented, and cooperative. Appears fatigued.
+HEENT: PERRLA, EOMI, no oral lesions or lymphadenopathy.
+Chest: Clear to auscultation bilaterally, no wheezes or crackles.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Abdomen: Soft, non-tender, non-distended, bowel sounds present.
+Extremities: No edema or clubbing.
+Skin: No rashes or lesions.
+Neurological: AAOx3, CN II-XII grossly intact, motor and sensory exam normal.
+Musculoskeletal: Tenderness to palpation over the lower lumbar spine, no deformity, full range of motion.
+
+Laboratory and Imaging:
+CBC, CMP, and tumor markers ordered.
+MRI of the lumbar spine ordered to evaluate the etiology of back pain.
+
+Assessment and Plan:
+1. Suspected metastatic non-small cell lung cancer: New onset of lower back pain and worsening fatigue raise concern for metastatic disease. The patient will undergo an MRI of the lumbar spine to evaluate for vertebral metastasis. The patient will also have updated tumor markers and other laboratory tests.
+2. Lower back pain: Pending MRI results, the patient will be prescribed a short course of oral NSAIDs and advised to apply heat or ice as needed for pain relief. Physical therapy referral will be considered based on imaging results and clinical findings.
+3. Fatigue: The patient will be encouraged to maintain a balanced diet, regular exercise, and adequate sleep. The patient's fatigue will continue to be monitored, and further evaluation may be required based on imaging and laboratory findings.
+
+The patient was educated on the importance of adhering to the prescribed treatment plan and monitoring for any new or worsening symptoms. The patient verbalized understanding and agreed to follow up as recommended.
+
+Dr. Jane Smith, MD
+Oncology

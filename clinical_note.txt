@@ -1,0 +1,60 @@
+Patient Name: John Doe
+Date of Birth: 01/01/1970
+MRN: 123456789
+Date of Visit: 09/02/2022
+Provider: Dr. Jane Smith, MD
+
+Chief Complaint:
+The patient presents today with ongoing fatigue, weight loss, and night sweats.
+
+History of Present Illness:
+John Doe, a 52-year-old male with a history of non-small cell lung cancer (NSCLC) diagnosed six months ago, presents for a follow-up after completing four cycles of chemotherapy. The patient reports persistent fatigue, 15-pound weight loss, and night sweats despite receiving treatment. He denies any shortness of breath or cough. He completed his last chemotherapy cycle three weeks ago.
+
+Past Medical History:
+1. Non-small cell lung cancer (NSCLC) - diagnosed six months ago.
+2. Hypertension - diagnosed five years ago, well-controlled on medication.
+3. Type 2 diabetes mellitus - diagnosed three years ago, managed through diet and medication.
+
+Medications:
+1. Lisinopril 10mg daily (hypertension)
+2. Metformin 1000mg twice daily (type 2 diabetes)
+3. Ondansetron 8mg as needed (nausea)
+
+Allergies:
+No known drug allergies.
+
+Family History:
+No family history of lung cancer. Father had colon cancer, and mother had breast cancer.
+
+Social History:
+The patient is a former smoker with a 20-pack-year history, quit ten years ago. He denies alcohol or illicit drug use. He is married and lives with his wife and two children.
+
+Review of Systems:
+Constitutional: Fatigue, unintentional weight loss, night sweats.
+Respiratory: No cough or shortness of breath.
+Other systems reviewed and are negative.
+
+Physical Examination:
+Vital Signs: BP 128/82, HR 78, RR 16, Temp 98.6°F, SpO2 97% on room air.
+General Appearance: Alert, oriented, and cooperative. Appears fatigued.
+HEENT: PERRLA, EOMI, no oral lesions or lymphadenopathy.
+Chest: Clear to auscultation bilaterally, no wheezes or crackles.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Abdomen: Soft, non-tender, non-distended, bowel sounds present.
+Extremities: No edema or clubbing.
+Skin: No rashes or lesions.
+Neurological: AAOx3, CN II-XII grossly intact, motor and sensory exam normal.
+
+Laboratory and Imaging:
+Recent CT scan revealed a decrease in tumor size from the previous scan.
+CBC, CMP, and tumor markers within normal limits, except for mild anemia.
+
+Assessment and Plan:
+1. Non-small cell lung cancer: The patient completed four cycles of chemotherapy with a partial response. The patient will be scheduled for a follow-up CT scan in three months. Additionally, the patient will be referred to radiation oncology for evaluation of potential radiation therapy.
+2. Fatigue, weight loss, and night sweats: Likely related to cancer and chemotherapy. The patient will be encouraged to maintain a balanced diet and exercise as tolerated. A nutritionist referral will be provided for further dietary support.
+3. Anemia: Mild anemia likely secondary to chemotherapy. The patient will be prescribed oral iron supplementation and asked to follow up with the primary care physician in two weeks for lab reevaluation.
+
+The patient was educated on the importance of adhering to the prescribed treatment plan and monitoring for any new or worsening symptoms. The patient verbalized understanding and agreed to follow up as recommended.
+
+Dr. Jane Smith, MD
+Oncology
